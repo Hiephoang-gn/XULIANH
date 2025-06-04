@@ -9,12 +9,11 @@ OpenCV
 
 Python
 
-Haar Cascade / YOLO / CNN (tuỳ chọn theo mô hình)
+ YOLOv8
 
-Jupyter Notebook / Google Colab
 
 🎯 Chức năng chính
-Nhận diện người và mũ bảo hiểm trong ảnh/video
+Nhận diện người và mũ bảo hiểm trong ảnh/video/camera
 
 Xác định người không đội mũ
 
